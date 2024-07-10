@@ -16,8 +16,8 @@ projects.
 
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://bit.ly/3VS7bwa">
-  <img src="https://bit.ly/3XVNBle" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=niquenen&show_icons=true&title_color=4493F8&icon_color=4493F8&text_color=7A949E&bg_color=161B22&custom_title=GitHub%20public%20stats&rank_icon=github&show=discussions_started#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=niquenen&show_icons=true&title_color=0969DA&icon_color=0969DA&text_color=57606A&bg_color=F6F8FA&custom_title=GitHub%20public%20stats&rank_icon=github&show=discussions_started#gh-light-mode-only" alt="GitHub stats">
 </picture>
 
 </details>
